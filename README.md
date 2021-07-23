@@ -1,5 +1,5 @@
-# Hi, I'm Kevin and this is my portfolio 🇺🇸
-<details>
+># Hi, I'm Kevin and this is my portfolio 🇺🇸
+><details>
     
 <summary>See the english [EN] portfolio</summary>
 
@@ -667,7 +667,7 @@ ViewController.swift
     
 <summary>Veja o portfólio em português [PT-BR]</summary>
 
-    ## Complete IOS App Development Bootcamp Projects
+## Complete IOS App Development Bootcamp Projects
 <details>
     
 <summary>See more about Complete IOS App Development Bootcamp</summary>
