@@ -11,13 +11,24 @@
  
 <summary>See more about my curriculum</summary>
 <br/>  
+    
+### Profile   
+    
   Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow.    I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
-
+    
+>Contact:
+>📧 contact@helloimkevin.com
+>📱 +55 (41) 996356430
+  
+<br/>     
+    
 ### Experience
 >### 🍎 Apple Developer Academy
 >#### FEB 2019 - DEC 2020 | PUCPR Curitiba, Brazil
 >In programming, I work with Swift language, learning from algorithm l,ogic to backend programming. In design I work with interface composition and prototyping, >interaction design and UX. In business, I review and learn concepts of marketing, dissemination and entrepreneurship. And in meta skills, I cover subjects such >as: creativity, feedback, communication, presentation and collaboration.
-  
+
+<br/>     
+    
 ### Skills
     
 | **General Coding Skills** | **Swift Skills** | **Design Skills** | **Other Skills**
@@ -31,6 +42,8 @@
 | GitFlow | Storyboars | SwiftUI
 | User Defaults | Auto Layout | Flask
   
+<br/>     
+    
 ### Education
 >### Computer Engeneering
 >#### FEB 2016 - DEC 2022 | PUCPR Curitiba, Brazil
