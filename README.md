@@ -1,4 +1,4 @@
-# Hi, I'm Kevin and this is my portfolio 🇺🇸
+# Hi, I'm Kevin and this is my portfolio 🇺🇸 | Olá, Eu sou o Kevin e esse é meu portfólio 🇧🇷
 <details>
     
 <summary>See the english [EN] portfolio</summary>
@@ -660,8 +660,6 @@ ViewController.swift
 </details>
 </details>
 </details>
-
-# Olá, Eu sou o Kevin e esse é meu portfólio 🇧🇷
     
 <details>
     
