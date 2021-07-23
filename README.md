@@ -1,5 +1,5 @@
-# Hello, I'm Kevin
-## Complete IOS App Development Bootcamp
+# Hi, I'm Kevin and this is my portfolio 📲
+## Complete IOS App Development Bootcamp Projects
 <details>
     
 <summary>See more about Complete IOS App Development Bootcamp</summary>
