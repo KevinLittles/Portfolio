@@ -3,18 +3,169 @@
 ![Group 122](https://user-images.githubusercontent.com/49958388/126734810-ad6e345e-739d-444e-a937-8c0237f4b3c7.png)
 
 <details>
-  
+    
+<summary>🇺🇸 See the english portfolio</summary>
+
 ## Curriculum 📄
 <details> 
  
 <summary>See more about my curriculum</summary>
-    
-Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow.    I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
+<br/>  
+  Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow.    I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
 
-<details>
-    
-<summary>🇺🇸 See the english portfolio</summary>
-    
+### Experience
+>### 🍎 Apple Developer Academy
+>#### EB 2019 - DEC 2020 | PUCPR Curitiba, Brazil
+>In programming, I work with Swift language, learning from algorithm l,ogic to backend programming. In design I work with interface composition and prototyping, >interaction design and UX. In business, I review and learn concepts of marketing, dissemination and entrepreneurship. And in meta skills, I cover subjects such >as: creativity, feedback, communication, presentation and collaboration.
+  
+### Skills
+#### General Coding Skills
+>- MVVM Architecture
+>- MVP Architecture
+>- Object Oriented Programming
+>- Protocol Oriented Programing
+>- SwiftUI
+>- Git
+>- GitFlow
+>- User Defaults
+>- Core Data
+>- Realm
+>- In-App Purchases
+>- StoreKit
+>- CoreML
+>- CreateML
+>- ARKit
+>- App Publication
+>- Flutter
+>- AWS DynamoDB
+>- Flask
+>- Singleton Design Pattern
+>- ViewController Lifecycle
+>- App Lifecycle
+>- Swift Package Manager
+>- Table Views
+>- Any, AnyObject and NSObject
+>- as, as!, as? and is (Downcast and Upcast)
+>- Xibs
+>- Firebase Auth
+>- Firebase Firestore
+>- Cocoapods
+>- Observed Property
+>- Getters and Setters
+>- Core Location
+>- Extensions
+>- Dispatch Queue
+>- Sheduled Timer
+>- Computed Property
+>- Completion
+>- JSON Parsing
+>- Closures
+>- Networking
+>- Use APIs
+>- Delegate Design Pattern
+>- MVC Architecture
+>- Auto Layout
+>- Storyboards
+  
+#### Swift Skills
+>- MVVM Architecture
+>- MVP Architecture
+>- Object Oriented Programming
+>- Protocol Oriented Programing
+>- SwiftUI
+>- Git
+>- GitFlow
+>- User Defaults
+>- Core Data
+>- Realm
+>- In-App Purchases
+>- StoreKit
+>- CoreML
+>- CreateML
+>- ARKit
+>- App Publication
+>- Flutter
+>- AWS DynamoDB
+>- Flask
+>- Singleton Design Pattern
+>- ViewController Lifecycle
+>- App Lifecycle
+>- Swift Package Manager
+>- Table Views
+>- Any, AnyObject and NSObject
+>- as, as!, as? and is (Downcast and Upcast)
+>- Xibs
+>- Firebase Auth
+>- Firebase Firestore
+>- Cocoapods
+>- Observed Property
+>- Getters and Setters
+>- Core Location
+>- Extensions
+>- Dispatch Queue
+>- Sheduled Timer
+>- Computed Property
+>- Completion
+>- JSON Parsing
+>- Closures
+>- Networking
+>- Use APIs
+>- Delegate Design Pattern
+>- MVC Architecture
+>- Auto Layout
+>- Storyboards
+
+#### Design Skills
+>- MVVM Architecture
+>- MVP Architecture
+>- Object Oriented Programming
+>- Protocol Oriented Programing
+>- SwiftUI
+>- Git
+>- GitFlow
+>- User Defaults
+>- Core Data
+>- Realm
+>- In-App Purchases
+>- StoreKit
+>- CoreML
+>- CreateML
+>- ARKit
+>- App Publication
+>- Flutter
+>- AWS DynamoDB
+>- Flask
+>- Singleton Design Pattern
+>- ViewController Lifecycle
+>- App Lifecycle
+>- Swift Package Manager
+>- Table Views
+>- Any, AnyObject and NSObject
+>- as, as!, as? and is (Downcast and Upcast)
+>- Xibs
+>- Firebase Auth
+>- Firebase Firestore
+>- Cocoapods
+>- Observed Property
+>- Getters and Setters
+>- Core Location
+>- Extensions
+>- Dispatch Queue
+>- Sheduled Timer
+>- Computed Property
+>- Completion
+>- JSON Parsing
+>- Closures
+>- Networking
+>- Use APIs
+>- Delegate Design Pattern
+>- MVC Architecture
+>- Auto Layout
+>- Storyboards
+
+  
+</details>
+  
 ## Complete IOS App Development Bootcamp Projects
 <details>
     
