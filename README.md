@@ -2,10 +2,9 @@
 
 ![Group 122](https://user-images.githubusercontent.com/49958388/126734810-ad6e345e-739d-444e-a937-8c0237f4b3c7.png)
 
-
 <details>
     
-<summary>🇺🇸 See the english [EN] portfolio</summary>
+<summary>🇺🇸 See the english portfolio</summary>
 
 ## Complete IOS App Development Bootcamp Projects
 <details>
@@ -702,7 +701,7 @@ ViewController.swift
     
 <details>
     
-<summary>🇧🇷 Veja o portfólio em português [PT-BR]</summary>
+<summary>🇧🇷 Veja o portfólio em português</summary>
 
 ## Complete IOS App Development Bootcamp Projects
 <details>
