@@ -3,9 +3,18 @@
 ![Group 122](https://user-images.githubusercontent.com/49958388/126734810-ad6e345e-739d-444e-a937-8c0237f4b3c7.png)
 
 <details>
+  
+## Curriculum 📄
+<details> 
+ 
+<summary>See more about my curriculum</summary>
+    
+Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow.    I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
+
+<details>
     
 <summary>🇺🇸 See the english portfolio</summary>
-
+    
 ## Complete IOS App Development Bootcamp Projects
 <details>
     
