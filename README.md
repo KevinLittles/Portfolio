@@ -133,7 +133,6 @@ var one: Int = 1 {
     
 <summary>See more about Flash Chat App</summary>
 <br/>   
-The Flash Chat application consists of a weather monitoring app, it uses an API to load data about the local weather (detected by CoreLocation), and having its UI updated as the result.
     
 Building the Flash Chat application I learned how to:
 - Install Cocoapods and use 3rd partu libraries
@@ -307,6 +306,8 @@ SceneDelegate.swift
 <details>
     
 <summary>See more about Clima App</summary>
+
+The Clima application consists of a weather monitoring app, it uses an API to load data about the local weather (detected by CoreLocation), and having its UI updated as the result.
     
 #### Using Computed Properties
 WeatherViewController.swift
