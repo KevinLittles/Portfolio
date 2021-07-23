@@ -1,4 +1,5 @@
-# 🇺🇸 Hi, I'm Kevin and this is my portfolio<br/>🇧🇷 Olá, Eu sou o Kevin e esse é meu portfólio
+<center># 🇺🇸 Hi, I'm Kevin and this is my portfolio<br/>🇧🇷 Olá, Eu sou o Kevin e esse é meu portfólio</center>
+![Group 122](https://user-images.githubusercontent.com/49958388/126734810-ad6e345e-739d-444e-a937-8c0237f4b3c7.png)
 <details>
     
 <summary>🇺🇸 See the english [EN] portfolio</summary>
