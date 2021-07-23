@@ -1,7 +1,7 @@
 ># Hi, I'm Kevin and this is my portfolio 🇺🇸
-><details>
+<details>
     
-<summary>See the english [EN] portfolio</summary>
+><summary>See the english [EN] portfolio</summary>
 
 ## Complete IOS App Development Bootcamp Projects
 <details>
