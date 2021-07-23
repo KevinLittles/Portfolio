@@ -1,4 +1,5 @@
-# Hi, I'm Kevin and this is my portfolio 🇺🇸 | Olá, Eu sou o Kevin e esse é meu portfólio 🇧🇷
+# Hi, I'm Kevin and this is my portfolio 🇺🇸
+Olá, Eu sou o Kevin e esse é meu portfólio 🇧🇷
 <details>
     
 <summary>See the english [EN] portfolio</summary>
