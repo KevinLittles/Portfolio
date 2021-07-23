@@ -19,7 +19,7 @@
     
 ### Profile   
     
-  Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow.    I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
+Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow.    I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
     
 ### Experience
 >### 🍎 Apple Developer Academy
@@ -64,17 +64,34 @@
     
 </details>
   
-## Complete IOS App Development Bootcamp Projects
+## Complete IOS App Development Bootcamp Course Projects and Learnings
 <details>
     
 <summary>See more about Complete IOS App Development Bootcamp</summary>
+<br/>
 
+In this course I got, I'm getting and reviewing these (main) following learnings:
+    
+- Concepts of Object Oriented Programming (OOP): The type system, variables, functions and methods, inheritance, structures, classes and protocols.
+- Control Structures: Using If/Else clauses, Switch statements and logic to control the flow of execution.
+- Data Structures: How to work with collections, such as arrays and dictionaries.
+Software Design: How to organise and format code for readability and how to implement the Model View Controller (MVC) design pattern, Apple's favourite delegation pattern and the publisher pattern.
+- Networking: How to make asynchronous API calls, store and retrieve data from the cloud, and use the JSON format for server communication.
+- Persistent Local Data Storage: How to use Core Data, Realm, Codable and User Defaults to store your app data locally.
+- How to Implement In-App Purchases with Apple StoreKit
+- Machine Learning: How to make artificially intelligent apps and build your own machine learning models using iOS 13's new CoreML2 and CreateML frameworks.
+- Augmented Reality: How to create 3D objects in augmented reality and create incredible 3D animations and real-life interactions using Apple's latest ARKit2 framework.
+- SwiftUI: How to use Apple's brand new UI framework to create user interfaces programmatically that look good across all Apple products.
+    
 ### Advanced Swift Classroom 1
 <details>
     
 <summary>See more about Advanced Swift Classroom 1</summary>
+<br/>    
+In this first advanced learning session about swift of the course, I understood how the Getters and Setters properties of variables in swift work, in addition I understood how Observed properties work and how I can use them to perform an action once a variable has its value changed or is about to be changed.
     
 #### Understanding Getters and Setters
+    
 ```swift
 let one: Int = 1
 
@@ -115,20 +132,25 @@ var one: Int = 1 {
 <details>
     
 <summary>See more about Flash Chat App</summary>
+<br/>   
+The Flash Chat application consists of a weather monitoring app, it uses an API to load data about the local weather (detected by CoreLocation), and having its UI updated as the result.
+    
+Building the Flash Chat application I learned how to:
+- Install Cocoapods and use 3rd partu libraries
+- Use Firebase Auth to register and authenticate a user by email and password
+- Use Firebase Firestore to send and load information that was used in the app
+- Use .xib files to make a custom UITableViewCell
+- Use Downcast and Upcast in swift
+- Understand the App and ViewControllers lifecycle
     
 #### Using Cocoapods to get 3rd party libraries
 Podfile
 ```markdown
-platform :ios, '13.0'
-
-target 'Flash Chat iOS13' do
-
+//[...]
   use_frameworks!
 
   pod 'CLTypingLabel', '~> 0.4.0'
-  pod 'Firebase/Auth'
-  pod 'Firebase/Firestore'
-
+//[...]
 end
  ```
  
@@ -140,9 +162,7 @@ import IQKeyboardManagerSwift
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
-        FirebaseApp.configure()
-        Firestore.firestore()
+        //[...]
         
         IQKeyboardManager.shared.enable = true
         IQKeyboardManager.shared.enableAutoToolbar = false
@@ -153,7 +173,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 //[...]
 }
  ```
-
+    
 WelcomeViewController.swift
 ```swift
 @IBOutlet weak var titleLabel: CLTypingLabel!
@@ -163,7 +183,7 @@ WelcomeViewController.swift
         
         titleLabel.text = K.appName
     }
- ```
+ ```   
 
 #### Using Firebase Auth to sign in existing users
 LoginViewController.swift
@@ -204,29 +224,23 @@ ChatViewController.swift
         }
     }
 ```
-
+    
 #### Using Xib to create a custom TableViewCell
 MessageCell.swift
 ```swift
 class MessageCell: UITableViewCell {
 
-    @IBOutlet weak var messageBubble: UIView!
-    @IBOutlet weak var label: UILabel!
-    @IBOutlet weak var rightImageView: UIImageView!
-    @IBOutlet weak var leftImageView: UIImageView!
+    //[...]
     
     override func awakeFromNib() {
         super.awakeFromNib()
         
-        messageBubble.layer.cornerRadius = messageBubble.frame.size.height / 4
+    //[...]
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
-
-        
-    }
-    
+    } 
 }
 ```
 ChatViewController.swift
@@ -297,42 +311,37 @@ SceneDelegate.swift
 #### Using Computed Properties
 WeatherViewController.swift
 ```swift
-class WeatherViewController: UIViewController {
-
-    @IBOutlet weak var conditionImageView: UIImageView!
-    @IBOutlet weak var temperatureLabel: UILabel!
-    @IBOutlet weak var cityLabel: UILabel!
-    @IBOutlet weak var searchTextField: UITextField!
+struct WeatherModel {
+    let conditionId: Int
+    let cityName: String
+    let temperature: Double
     
-    var weatherManager = WeatherManager()
-    let locationManager = CLLocationManager()
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        locationManager.delegate = self
-        weatherManager.delegate = self
-        searchTextField.delegate = self
-        
-        locationManager.requestWhenInUseAuthorization()
-        locationManager.requestLocation()
+    var temperatureString: String {
+        return String(format: "%.1f", temperature)
     }
-//[...]
-}
-
-extension WeatherViewController: CLLocationManagerDelegate {
-    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
-        if let location = locations.last {
-            locationManager.stopUpdatingLocation()
-            let lat = location.coordinate.latitude
-            let lon = location.coordinate.longitude
-            weatherManager.fetchWeather(latitude: lat, longitude: lon)
+    
+    var conditionName: String {
+        switch conditionId {
+                case 200...232:
+                    return "cloud.bolt"
+                case 300...321:
+                    return "cloud.drizzle"
+                case 500...531:
+                    return "cloud.rain"
+                case 600...622:
+                    return "cloud.snow"
+                case 701...781:
+                    return "cloud.fog"
+                case 800:
+                    return "sun.max"
+                case 801...804:
+                    return "cloud.bolt"
+                default:
+                    return "cloud"
         }
-    }
-    
-    func locationManager(_ manager: CLLocationManager, didFailWithError error: Error) {
-        print(error)
-    }
+    } 
 }
+
  ```
  
 #### Using CoreLocation to get location data
@@ -343,9 +352,7 @@ WeatherViewController.swift
         override func viewDidLoad() {
             super.viewDidLoad()
             locationManager.delegate = self
-            weatherManager.delegate = self
-            searchTextField.delegate = self
-        
+            //[...]
             locationManager.requestWhenInUseAuthorization()
             locationManager.requestLocation()
         }
@@ -531,41 +538,6 @@ WeatherManager.swift
         }
     }
  ```
- 
-#### Using Computed Properties
-WeatherModel.swift
-```swift
-struct WeatherModel {
-    let conditionId: Int
-    let cityName: String
-    let temperature: Double
-    
-    var temperatureString: String {
-        return String(format: "%.1f", temperature)
-    }
-    
-    var conditionName: String {
-        switch conditionId {
-                case 200...232:
-                    return "cloud.bolt"
-                case 300...321:
-                    return "cloud.drizzle"
-                case 500...531:
-                    return "cloud.rain"
-                case 600...622:
-                    return "cloud.snow"
-                case 701...781:
-                    return "cloud.fog"
-                case 800:
-                    return "sun.max"
-                case 801...804:
-                    return "cloud.bolt"
-                default:
-                    return "cloud"
-        }
-    }
-}
- ```
     
 </details>    
 
@@ -579,14 +551,14 @@ struct WeatherModel {
 ```swift
     Struct struct {
         
-        let immutable: Any?
-        let passedByValue: Any?
+        let immutable: true
+        let passedByValue: true
     }
     
     Class class {
         
-        let inheritance: Any?
-        let passedByReference: Any?
+        let inheritance: true
+        let passedByReference: true
     }
  ```
 
@@ -594,10 +566,7 @@ struct WeatherModel {
 CalculateViewController.swift
 ```swift
     @IBAction func calculatePressed(_ sender: UIButton) {
-        let height = heightSlider.value
-        let weight = weightSlider.value
-
-        calculatorBrain.calculateBMI(height: height, weight: weight)
+        //[...]
         
         performSegue(withIdentifier: "goToRsult", sender: self)
     }
