@@ -15,156 +15,42 @@
 
 ### Experience
 >### 🍎 Apple Developer Academy
->#### EB 2019 - DEC 2020 | PUCPR Curitiba, Brazil
+>#### FEB 2019 - DEC 2020 | PUCPR Curitiba, Brazil
 >In programming, I work with Swift language, learning from algorithm l,ogic to backend programming. In design I work with interface composition and prototyping, >interaction design and UX. In business, I review and learn concepts of marketing, dissemination and entrepreneurship. And in meta skills, I cover subjects such >as: creativity, feedback, communication, presentation and collaboration.
   
 ### Skills
-#### General Coding Skills
->- MVVM Architecture
->- MVP Architecture
->- Object Oriented Programming
->- Protocol Oriented Programing
->- SwiftUI
->- Git
->- GitFlow
->- User Defaults
->- Core Data
->- Realm
->- In-App Purchases
->- StoreKit
->- CoreML
->- CreateML
->- ARKit
->- App Publication
->- Flutter
->- AWS DynamoDB
->- Flask
->- Singleton Design Pattern
->- ViewController Lifecycle
->- App Lifecycle
->- Swift Package Manager
->- Table Views
->- Any, AnyObject and NSObject
->- as, as!, as? and is (Downcast and Upcast)
->- Xibs
->- Firebase Auth
->- Firebase Firestore
->- Cocoapods
->- Observed Property
->- Getters and Setters
->- Core Location
->- Extensions
->- Dispatch Queue
->- Sheduled Timer
->- Computed Property
->- Completion
->- JSON Parsing
->- Closures
->- Networking
->- Use APIs
->- Delegate Design Pattern
->- MVC Architecture
->- Auto Layout
->- Storyboards
+    
+| **General Coding Skills** | **Swift Skills** | **Design Skills** | **Other Skills**
+| ------------------------- | ---------------- | ----------------- | -----------------|
+| MVVM Architecture | Sheduled Timer | Figma
+| MVP Architecture | Computed Property | CreateML
+| Object Oriented Programming | Completion | Flutter
+| Protocol Oriented Programing | JSON Parsing | App Publication
+| SwiftUI | Networking | Git
+| Git | MVC Architeture | GitFlow
+| GitFlow | Storyboars | SwiftUI
+| User Defaults | Auto Layout | Flask
   
-#### Swift Skills
->- MVVM Architecture
->- MVP Architecture
->- Object Oriented Programming
->- Protocol Oriented Programing
->- SwiftUI
->- Git
->- GitFlow
->- User Defaults
->- Core Data
->- Realm
->- In-App Purchases
->- StoreKit
->- CoreML
->- CreateML
->- ARKit
->- App Publication
->- Flutter
->- AWS DynamoDB
->- Flask
->- Singleton Design Pattern
->- ViewController Lifecycle
->- App Lifecycle
->- Swift Package Manager
->- Table Views
->- Any, AnyObject and NSObject
->- as, as!, as? and is (Downcast and Upcast)
->- Xibs
->- Firebase Auth
->- Firebase Firestore
->- Cocoapods
->- Observed Property
->- Getters and Setters
->- Core Location
->- Extensions
->- Dispatch Queue
->- Sheduled Timer
->- Computed Property
->- Completion
->- JSON Parsing
->- Closures
->- Networking
->- Use APIs
->- Delegate Design Pattern
->- MVC Architecture
->- Auto Layout
->- Storyboards
+### Education
+>### Computer Engeneering
+>#### FEB 2016 - DEC 2022 | PUCPR Curitiba, Brazil
+>In programming, I work with Swift language, learning from algorithm l,ogic to backend programming. In design I work with interface composition and prototyping, >interaction design and UX. In business, I review and learn concepts of marketing, dissemination and entrepreneurship. And in meta skills, I cover subjects such >as: creativity, feedback, communication, presentation and collaboration.
 
-#### Design Skills
->- MVVM Architecture
->- MVP Architecture
->- Object Oriented Programming
->- Protocol Oriented Programing
->- SwiftUI
->- Git
->- GitFlow
->- User Defaults
->- Core Data
->- Realm
->- In-App Purchases
->- StoreKit
->- CoreML
->- CreateML
->- ARKit
->- App Publication
->- Flutter
->- AWS DynamoDB
->- Flask
->- Singleton Design Pattern
->- ViewController Lifecycle
->- App Lifecycle
->- Swift Package Manager
->- Table Views
->- Any, AnyObject and NSObject
->- as, as!, as? and is (Downcast and Upcast)
->- Xibs
->- Firebase Auth
->- Firebase Firestore
->- Cocoapods
->- Observed Property
->- Getters and Setters
->- Core Location
->- Extensions
->- Dispatch Queue
->- Sheduled Timer
->- Computed Property
->- Completion
->- JSON Parsing
->- Closures
->- Networking
->- Use APIs
->- Delegate Design Pattern
->- MVC Architecture
->- Auto Layout
->- Storyboards
+<br/>
+    
+>### Fundamentals of data science 1
+>#### OCT 2017 - JAN 2018 | Udacity
+>Project: Analysis of the Bay Area Bike Share Data and extraction of relevant information.
+>Technologies: Python 3 with MatPlotLib, Pandas and Numpy.
 
-  
-</details>
+<br/>
+    
+>### Many courses
+>#### ATEMPORAL | Udemy
+>SwiftUI - Learn How to Build Beautiful, Robust, Apps;
+>From Beginner to Advanced in Unit Testing on iOS;
+>MVVM Design Pattern in SwiftUI;
+>Git - The complete course: Git, Github and git-flow.
   
 ## Complete IOS App Development Bootcamp Projects
 <details>
