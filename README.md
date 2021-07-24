@@ -743,7 +743,21 @@ GitHub repository - https://github.com/appbrewery/Dicee-iOS13-Completed
 <summary>See more about Apple Developer Academy Projects and Learnings</summary>
 <br/>  
   
+### Yobaba
+![morflax_things-9](https://user-images.githubusercontent.com/49958388/126855974-12ed8b8c-722b-4e73-8d10-c10d9082b859.png)
+
+<details>
     
+<summary>See more about Yobaba</summary>
+
+<br/>
+The Yobaba app is a mobile story card game develop in SpriteKit. Well, in sum Yobaba tells a history about you and your grandma. The game mecanics is based on arguments... yes, arguments! You and your grandma will have a lot of conversations, and how you will argument your ideia with her is based on cards (that represents differents arguments). This was a work that spent almost 7 months of team work, and I was one of the "code developers" of the project, directly working in the part of SpriteKit developing and the Model classes.
+    
+In this app I leraned SO MUCH about SpriteKit, a bit about Design, Audio, Storytelling and team work.
+    
+GitHub repository - https://github.com/KelvinJavorski/Yobaba-Swift-Spritekit   
+                                    
+</details>    
     
 </details>   
     
