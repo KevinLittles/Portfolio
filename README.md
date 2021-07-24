@@ -784,7 +784,7 @@ func getCardsFromDiscard (completion: @escaping () -> () = { }) {
 </details>    
  
 ### Find The Way
-![morflax_things-11](https://user-images.githubusercontent.com/49958388/126880163-878b7323-ec63-4d01-9ace-30f88ed6a077.png)
+![morflax_things-13](https://user-images.githubusercontent.com/49958388/126880226-ef0e0ce3-ff2c-434a-b93c-c8414647430c.png)
 
 <details>
     
