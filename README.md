@@ -319,6 +319,7 @@ Building the Clima application I learned to:
 - Understand closures
 - Use Codable protocol and JSONDecoder() for JSON Parsing
 - Consume an API
+- Use DispatchQueue to update the UI elemts in a completion with the main trhead
     
 #### Using Computed Properties
 WeatherViewController.swift
