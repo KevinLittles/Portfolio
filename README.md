@@ -134,8 +134,10 @@ var one: Int = 1 {
 <summary>See more about Flash Chat App</summary>
 <br/>   
     
-Building the Flash Chat application I learned how to:
-- Install Cocoapods and use 3rd partu libraries
+The Flash Chat App is a basic chat application with only one global chat!
+    
+Building the Flash Chat application I learned to:
+- Install Cocoapods and use 3rd party libraries
 - Use Firebase Auth to register and authenticate a user by email and password
 - Use Firebase Firestore to send and load information that was used in the app
 - Use .xib files to make a custom UITableViewCell
@@ -306,8 +308,17 @@ SceneDelegate.swift
 <details>
     
 <summary>See more about Clima App</summary>
-
+<br/>
 The Clima application consists of a weather monitoring app, it uses an API to load data about the local weather (detected by CoreLocation), and having its UI updated as the result.
+
+Building the Clima application I learned to:
+- Use Computed Properties to set a variable data
+- Use CoreLocation to get location data
+- Understand the Delegate Design pattern and using it to pass data between a model class and ViewController
+- Use URLSession for Networking
+- Understand closures
+- Use Codable protocol and JSONDecoder() for JSON Parsing
+- Consume an API
     
 #### Using Computed Properties
 WeatherViewController.swift
@@ -499,7 +510,7 @@ func calculator (n1: Int, n2: Int, operation: (Int, Int) -> Int {
 calculator(n1: x, n2: y,) {$0 * $1}
  ```
  
-#### Using Codable protocol for JSON Parsin
+#### Using Codable protocol and JSONDecoder() for JSON Parsing
 WeatherData.swift
 ```swift
 struct WeatherData: Codable {
@@ -547,6 +558,14 @@ WeatherManager.swift
 <details>
     
 <summary>See more about BMI Calculator App</summary>
+
+<br/>
+The BMI Calculator application calculates the BMI of a person, based on height and weight
+
+Building the BMI Calculator application I learned to:
+- Understand the difference between Classes and Structs
+- Use Segue to pass data between ViewControllers
+- Understand Optional Binding, Chaining, and Nil Coalescing
     
 #### Understanding the difference between Classes and Structs
 ```swift
@@ -582,7 +601,7 @@ CalculateViewController.swift
     }
  ```
  
-#### Understanding Optional Binding, Chaining, and Nil Coalescicng
+#### Understanding Optional Binding, Chaining, and Nil Coalescing
 CalculateViewController.swift
 ```swift
     let foceUnwrapping = optional!
@@ -611,6 +630,13 @@ CalculateViewController.swift
 <details>
     
 <summary>See more about Quizzler App</summary>
+
+<br/>
+The Quizzler application is a simple Quiz App!
+
+Building the Quizzler application I learned to:
+- Use MVC arquiteture/design pattern
+- Use mutating func to update struct atributes   
     
 #### Using MVC arquiteture/design pattern
 <img width="183" alt="Captura de Tela 2021-07-22 às 16 34 27" src="https://user-images.githubusercontent.com/49958388/126698967-8cb50782-6a08-4410-a645-e04e26252808.png">
@@ -644,6 +670,12 @@ ViewController.swift
 <details>
     
 <summary>See more about Egg Timer App</summary>
+
+<br/>
+The Egg Timer application is an app that shows you how much time remais to your egg get ready to eat!
+
+Building the Egg Timer application I learned to:
+- Use Sheduled Timer to set a progress bar
     
 #### Using Sheduled Timer to set a progress bar
 ViewController.swift
@@ -684,6 +716,12 @@ ViewController.swift
 <details>
     
 <summary>See more about Dicee App</summary>
+
+<br/>
+The Dicee application is an app that shows you 2 game dices with random values of 1 to 6!
+
+Building the Dicee application I learned to:
+- Use Alignment, Pinning, Containers, Subviews and Stacks to Autolayout
     
 #### Using Alignment, Pinning, Containers, Subviews and Stacks to Autolayout
 <img width="566" alt="Captura de Tela 2021-07-22 às 16 14 06" src="https://user-images.githubusercontent.com/49958388/126696504-f49c68b0-75ea-41c6-aaa8-ea9f49760554.png">
