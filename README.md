@@ -758,8 +758,8 @@ In this app I leraned SO MUCH about SpriteKit, a bit about Design, Audio, Storyt
 GitHub repository - https://github.com/KelvinJavorski/Yobaba-Swift-Spritekit   
 
     
-{Weird codes like this have been builded in the main file of SpriteKit Framework 😨}
-swift
+>Weird codes like this have been builded in the main file of SpriteKit Framework 😨
+```swift
 func getCardsFromDiscard (completion: @escaping () -> () = { }) {
         if !gettingCardsFromDiscard {
             let delay = SKAction.wait(forDuration: 0.0)
