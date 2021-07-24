@@ -782,6 +782,22 @@ func getCardsFromDiscard (completion: @escaping () -> () = { }) {
     }
 ```
 </details>    
+ 
+### Find The Way
+![morflax_things-11](https://user-images.githubusercontent.com/49958388/126880163-878b7323-ec63-4d01-9ace-30f88ed6a077.png)
+
+<details>
+    
+<summary>See more about Find The Way</summary>
+
+<br/>
+The Find The Way application is a mobile game developed with SpriteKit! Find The Way consists in a story of a group of tourists that are enjoying their vacation in a island, but one thing that nobody know is that have a murderer in the group. The objetive of the game is to arrive a safe place that the murderer can't do his movements. Everyone in the group have the power to do one movement in the island BUT the tourists dont know where is the safe place, and the murderer knows!
+    
+Developing this app, i was responsable for coding a big part of SpriteKit and Model classes. I leraned so much about how we can develop an app with UIKit and SpriteKit working togheter and a lot of "mathematical background"in the Models, since we work with a type of "map" for the group of tourists to move around the island. And yes, that was quite complicated to deal with.  
+    
+GitHub repository - https://github.com/KelvinJavorski/Find-the-Way
+
+</details>
     
 </details>   
     
