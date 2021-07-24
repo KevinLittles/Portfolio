@@ -756,7 +756,31 @@ The Yobaba app is a mobile story card game develop in SpriteKit. Well, in sum Yo
 In this app I leraned SO MUCH about SpriteKit, a bit about Design, Audio, Storytelling and team work.
     
 GitHub repository - https://github.com/KelvinJavorski/Yobaba-Swift-Spritekit   
-                                    
+
+    
+{Weird codes like this have been builded in the main file of SpriteKit Framework 😨}
+swift
+func getCardsFromDiscard (completion: @escaping () -> () = { }) {
+        if !gettingCardsFromDiscard {
+            let delay = SKAction.wait(forDuration: 0.0)
+            let code  = SKAction.run {
+                self.i+=1
+                Player.shared.getCardFromDiscard(0)
+            }
+            let sequence = SKAction.sequence([code])
+            let loop = SKAction.repeat(sequence, count: Player.shared.discard.cards.count)
+            gettingCardsFromDiscard = true
+            discardNode.run(loop) {
+                self.gettingCardsFromDiscard = false
+                for card in Player.shared.deck.cards{
+                    print("Card ID no deck: \(card.id)")
+                }
+                Player.shared.deck.shuffle()
+                completion()
+            }
+        }
+    }
+```
 </details>    
     
 </details>   
