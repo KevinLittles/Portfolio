@@ -83,6 +83,7 @@ Software Design: How to organise and format code for readability and how to impl
 - Augmented Reality: How to create 3D objects in augmented reality and create incredible 3D animations and real-life interactions using Apple's latest ARKit2 framework.
 - SwiftUI: How to use Apple's brand new UI framework to create user interfaces programmatically that look good across all Apple products.
     
+Course link: https://www.udemy.com/course/ios-13-app-development-bootcamp/
 ### Advanced Swift Classroom 1
 <details>
     
@@ -143,7 +144,8 @@ Building the Flash Chat application I learned to:
 - Use .xib files to make a custom UITableViewCell
 - Use Downcast and Upcast in swift
 - Understand the App and ViewControllers lifecycle
-    
+
+GitHub repository - https://github.com/appbrewery/Flash-Chat-iOS13-Completed
 #### Using Cocoapods to get 3rd party libraries
 Podfile
 ```markdown
@@ -321,6 +323,7 @@ Building the Clima application I learned to:
 - Consume an API
 - Use DispatchQueue to update the UI elemts in a completion with the main trhead
     
+GitHub repository - https://github.com/appbrewery/Clima-iOS13-Completed    
 #### Using Computed Properties
 WeatherViewController.swift
 ```swift
@@ -567,7 +570,8 @@ Building the BMI Calculator application I learned to:
 - Understand the difference between Classes and Structs
 - Use Segue to pass data between ViewControllers
 - Understand Optional Binding, Chaining, and Nil Coalescing
-    
+
+GitHub repository - https://github.com/appbrewery/BMI-Calculator-iOS13-Completed
 #### Understanding the difference between Classes and Structs
 ```swift
     Struct struct {
@@ -639,6 +643,7 @@ Building the Quizzler application I learned to:
 - Use MVC arquiteture/design pattern
 - Use mutating func to update struct atributes   
     
+GitHub repository - https://github.com/appbrewery/Quizzler-iOS13-Completed    
 #### Using MVC arquiteture/design pattern
 <img width="183" alt="Captura de Tela 2021-07-22 às 16 34 27" src="https://user-images.githubusercontent.com/49958388/126698967-8cb50782-6a08-4410-a645-e04e26252808.png">
 
@@ -678,6 +683,7 @@ The Egg Timer application is an app that shows you how much time remais to your 
 Building the Egg Timer application I learned to:
 - Use Sheduled Timer to set a progress bar
     
+GitHub repository - https://github.com/appbrewery/EggTimer-iOS13-Completed    
 #### Using Sheduled Timer to set a progress bar
 ViewController.swift
 ```swift
@@ -723,7 +729,8 @@ The Dicee application is an app that shows you 2 game dices with random values o
 
 Building the Dicee application I learned to:
 - Use Alignment, Pinning, Containers, Subviews and Stacks to Autolayout
-    
+ 
+GitHub repository - https://github.com/appbrewery/Dicee-iOS13-Completed
 #### Using Alignment, Pinning, Containers, Subviews and Stacks to Autolayout
 <img width="566" alt="Captura de Tela 2021-07-22 às 16 14 06" src="https://user-images.githubusercontent.com/49958388/126696504-f49c68b0-75ea-41c6-aaa8-ea9f49760554.png">
     
