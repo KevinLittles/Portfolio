@@ -21,7 +21,7 @@ Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and
 ### Experience
 >### 🍎 Apple Developer Academy
 >#### FEB 2019 - DEC 2020 | PUCPR Curitiba, Brazil
->Over the 2 years of participation, I developed several authored apps alone and in a team. I learned several swift frameworks like UIKit, SpriteKit and ARKit. I >learned how to create applications with swift core and healthy programming artifacts like MVC Architecture, Clean Code, some design patterns and code versioning. >In addition to code development, I also learned to have a critical view of UX/UI design and thus produce some prototypes before programming an app.
+>ver the 2 years of participation, I developed several authored apps alone and in a team. I learned several swift frameworks like UIKit, SpriteKit and ARKit. I learned how to create applications with swift core and healthy programming artifacts like MVC Architecture, Clean Code, some design patterns and code versioning. In addition to code development, I also learned to have a critical view of UX/UI design and thus produce some prototypes before programming an app.
      
     
 ### Skills
@@ -61,7 +61,7 @@ Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and
 ### Education
 >### Computer Engeneering
 >#### FEB 2016 - DEC 2022 | PUCPR Curitiba, Brazil
->My focus in computer engineering has always been the scope of software development, here I mainly learned about some software engineering principles, imperative >and object-oriented programming, data structure, SQL databases and distributed systems (besides of course a lot engineering calculation)
+>My focus in computer engineering has always been the scope of software development, here I mainly learned about some software engineering principles, imperative and object-oriented programming, data structure, SQL databases and distributed systems (besides of course a lot engineering calculation).
 
 <br/>
     
@@ -73,7 +73,7 @@ Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and
 <br/>
     
 >### Many courses
->#### ATEMPORAL | Udemy
+>#### ATEMPORAL | Udem
 >SwiftUI - Learn How to Build Beautiful, Robust, Apps;
 >From Beginner to Advanced in Unit Testing on iOS;
 >MVVM Design Pattern in SwiftUI;
