@@ -1,6 +1,3 @@
-<h1 align="center"> 🇺🇸 IN PROGRESS<br/>🇧🇷 EM PROGRESSO</h1><br/>
-<br/><br/>
-
 <h1 align="center"> 🇺🇸 Hi, I'm Kevin and this is my portfolio<br/>🇧🇷 Olá, Eu sou o Kevin e esse é meu portfólio</h1><br/>
 
 ![Group 122](https://user-images.githubusercontent.com/49958388/126734810-ad6e345e-739d-444e-a937-8c0237f4b3c7.png)
@@ -19,32 +16,52 @@
     
 ### Profile   
     
-Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow.    I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
+Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow. I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
     
 ### Experience
 >### 🍎 Apple Developer Academy
 >#### FEB 2019 - DEC 2020 | PUCPR Curitiba, Brazil
->In programming, I work with Swift language, learning from algorithm l,ogic to backend programming. In design I work with interface composition and prototyping, >interaction design and UX. In business, I review and learn concepts of marketing, dissemination and entrepreneurship. And in meta skills, I cover subjects such >as: creativity, feedback, communication, presentation and collaboration.
+>Over the 2 years of participation, I developed several authored apps alone and in a team. I learned several swift frameworks like UIKit, SpriteKit and ARKit. I >learned how to create applications with swift core and healthy programming artifacts like MVC Architecture, Clean Code, some design patterns and code versioning. >In addition to code development, I also learned to have a critical view of UX/UI design and thus produce some prototypes before programming an app.
      
     
 ### Skills
     
-| **General Coding Skills** | **Swift Skills** | **Design Skills** | **Other Skills**
-| ------------------------- | ---------------- | ----------------- | -----------------|
-| MVVM Architecture | Sheduled Timer | Figma
-| MVP Architecture | Computed Property | CreateML
-| Object Oriented Programming | Completion | Flutter
-| Protocol Oriented Programing | JSON Parsing | App Publication
-| SwiftUI | Networking | Git
-| Git | MVC Architeture | GitFlow
-| GitFlow | Storyboars | SwiftUI
-| User Defaults | Auto Layout | Flask
+| **General Coding Skills** | **Swift Skills** | **Other Skills**
+| ------------------------- | ---------------- | -----------------|
+| Object Oriented Programming | Storyboards | UX/UI
+| MVC Architecture | Auto Layout | Figma
+| SOLID | Delegate Design Pattern | Sketch
+| Singleton Design pattern | Networking | 
+| Consume APIs | JSON Parsing | 
+| Firebase Firestore/Auth | Closures | 
+| Realm | Computed Properties | 
+| Git/GitFlow | Getters & Setters | 
+|  | Sheduled Timer | 
+|  | Dispatch Queue | 
+|  | Extensions | 
+|  | Core Location | 
+|  | Cocoapods | 
+|  | Swift PM | 
+|  | Xibs | 
+|  | Downcast & Upcast | 
+|  | Any, AnyObject, NSObject | 
+|  | App Lifecycle | 
+|  | ViewController Lifecycle | 
+|  | UserDefaults | 
+|  | NSCoder | 
+|  | Core Data | 
+|  | App Publication | 
+|  | UIKit |
+|  | SpriteKit |
+|  | SwiftUI |
+
+
        
     
 ### Education
 >### Computer Engeneering
 >#### FEB 2016 - DEC 2022 | PUCPR Curitiba, Brazil
->In programming, I work with Swift language, learning from algorithm l,ogic to backend programming. In design I work with interface composition and prototyping, >interaction design and UX. In business, I review and learn concepts of marketing, dissemination and entrepreneurship. And in meta skills, I cover subjects such >as: creativity, feedback, communication, presentation and collaboration.
+>My focus in computer engineering has always been the scope of software development, here I mainly learned about some software engineering principles, imperative >and object-oriented programming, data structure, SQL databases and distributed systems (besides of course a lot engineering calculation)
 
 <br/>
     
