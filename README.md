@@ -26,16 +26,16 @@ Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and
     
 ### Skills
     
-| **General Coding Skills** | **Swift Skills** | **Other Skills**
-| ------------------------- | ---------------- | -----------------|
-| Object Oriented Programming | Storyboards | UX/UI
-| MVC Architecture | Auto Layout | Figma
-| SOLID | Delegate Design Pattern | Sketch
-| Singleton Design pattern | Networking | 
-| Consume APIs | JSON Parsing | 
-| Firebase Firestore/Auth | Closures | 
-| Realm | Computed Properties | 
-| Git/GitFlow | Getters & Setters | 
+| **General Coding Skills** | **Swift Skills** | **Complementary Skills** | **Soft Skills** |
+| ------------------------- | ---------------- | -------------------------| ----------------|
+| Object Oriented Programming | Storyboards | UX/UI | Empathy
+| MVC Architecture | Auto Layout | Figma | Critical sense
+| SOLID | Delegate Design Pattern | Sketch | Ease of learning
+| Singleton Design pattern | Networking | Advanced english | Adaptation in scenarios
+| Consume APIs | JSON Parsing | | Problem solving |
+| Firebase Firestore/Auth | Closures | | Good communication |
+| Realm | Computed Properties | | Strong emotional intelligence |
+| Git/GitFlow | Getters & Setters | | Manage conflicts |
 |  | Sheduled Timer | 
 |  | Dispatch Queue | 
 |  | Extensions | 
