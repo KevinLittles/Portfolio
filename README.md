@@ -2,7 +2,7 @@
 
 ![Group 122](https://user-images.githubusercontent.com/49958388/126734810-ad6e345e-739d-444e-a937-8c0237f4b3c7.png)
 
-<h6 align="center">📧 pro.kevinribeiro@gmail.com | 📱 +55 (41) 996356430 | 💻 https://github.com/KevinLittles | 🔗 https://www.linkedin.com/in/kevin-ribeiro/</h6>
+<h6 align="center">📧 pro.kevinribeiro@gmail.com | 📱 +55 (41) 99635-6430 | 💻 https://github.com/KevinLittles | 🔗 https://www.linkedin.com/in/kevin-ribeiro/</h6>
 
 <details>
     
@@ -73,7 +73,7 @@ Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and
 <br/>
     
 >### Many courses
->#### ATEMPORAL | Udem
+>#### ATEMPORAL | Udemy
 >SwiftUI - Learn How to Build Beautiful, Robust, Apps;
 >From Beginner to Advanced in Unit Testing on iOS;
 >MVVM Design Pattern in SwiftUI;
