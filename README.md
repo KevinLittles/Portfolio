@@ -17,7 +17,7 @@ Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and
 ### Experience
 >### 🍎 Apple Developer Academy
 >#### FEB 2019 - DEC 2020 | PUCPR Curitiba, Brazil
->ver the 2 years of participation, I developed several authored apps alone and in a team. I learned several swift frameworks like UIKit, SpriteKit and ARKit. I learned how to create applications with swift core and healthy programming artifacts like MVC Architecture, Clean Code, some design patterns and code versioning. In addition to code development, I also learned to have a critical view of UX/UI design and thus produce some prototypes before programming an app.
+>Over the 2 years of participation, I developed several authored apps alone and in a team. I learned several swift frameworks like UIKit, SpriteKit and ARKit. I learned how to create applications with swift core and healthy programming artifacts like MVC Architecture, Clean Code, some design patterns and code versioning. In addition to code development, I also learned to have a critical view of UX/UI design and thus produce some prototypes before programming an app.
      
     
 ### Skills
