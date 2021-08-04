@@ -1,12 +1,8 @@
-<h1 align="center"> 🇺🇸 Hi, I'm Kevin and this is my portfolio<br/>🇧🇷 Olá, Eu sou o Kevin e esse é meu portfólio</h1><br/>
+<h1 align="center"> Hi, I'm Kevin and this is my portfolio </h1><br/>
 
 ![Group 122](https://user-images.githubusercontent.com/49958388/126734810-ad6e345e-739d-444e-a937-8c0237f4b3c7.png)
 
 <h6 align="center">📧 pro.kevinribeiro@gmail.com | 📱 +55 (41) 99635-6430 | 💻 https://github.com/KevinLittles | 🔗 https://www.linkedin.com/in/kevin-ribeiro/</h6>
-
-<details>
-    
-<summary>🇺🇸 See the english portfolio</summary>
     
 ## 📄 Curriculum
 <details> 
@@ -817,45 +813,3 @@ GitHub repository - https://github.com/KelvinJavorski/Find-the-Way
 </details>
     
 </details>   
-    
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-    
-</details>
- 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-<details>
-    
-<summary>🇧🇷 Veja o portfólio em português</summary>
-
-</details>
