@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Kevin and this is my portfolio (IN PROGRESS)</h1><br/>
 
-![Group 122](https://user-images.githubusercontent.com/49958388/126734810-ad6e345e-739d-444e-a937-8c0237f4b3c7.png)
+![IMG_0091 3](https://user-images.githubusercontent.com/49958388/128245217-30511e86-31e9-4b41-91da-46cfc3b24cec.jpg)
 
 <h6 align="center">📧 pro.kevinribeiro@gmail.com | 📱 +55 (41) 99635-6430 | 💻 https://github.com/KevinLittles | 🔗 https://www.linkedin.com/in/kevin-ribeiro/</h6>
     
