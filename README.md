@@ -12,7 +12,14 @@
     
 ### Profile   
     
-Hi, I'm kevin. If I were to sum up my person, I would say that I am flexible and empathetic, I like to talk to people who have a different opinion about the world, so that I can grow. I always avoid conflicts with other people and strive to solve problems in the most rational way possible.
+👋 Hello! I'm Kevin, but you can call me Littles if you want. I can summarize myself as an empathetic person, flexible, with great adaptability, and who handles conflicts well. If you want to talk, don't be afraid! Text me right now.
+
+💻 My area of ​​expertise is mobile development, specifically because of what governs the ecosystem of Apple technologies (such as Swift and IOS). I've already ventured to develop software for watchOS, IpadOS and some other needs that have been appearing in my trajectory like creating a backend with Flask for example.
+
+Today I find myself with these essential tasks:
+- 🍎 Improve my UI/UX design skills and study more and more Swift in depth and everything that governs such development to become every day an expert dev of the Apple ecosystem, with a focus on mobile.
+- 🎮 Study the technologies needed to leverage my startup (BuffSpot - Social network made exclusively for gamers), this includes Flutter, AWS, Flask, and everything you can imagine that governs the administration of a company.
+- ✨ Learn with any type of experience and direct this learning to my soft skills.
     
 ### Experience
 >### 🍎 Apple Developer Academy
