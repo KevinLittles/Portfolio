@@ -84,7 +84,7 @@ Today I find myself with these essential tasks:
     
 </details>
   
-## Complete IOS App Development Bootcamp Course Projects and Learnings
+## 📱 Complete IOS App Development Bootcamp Course Projects and Learnings
 <details>
     
 <summary>See more about Complete IOS App Development Bootcamp</summary>
@@ -757,7 +757,7 @@ GitHub repository - https://github.com/appbrewery/Dicee-iOS13-Completed
 </details>
 </details>
     
-## Apple Developer Academy Projects and Learnings
+## 🍎 Apple Developer Academy Projects and Learnings
 <details> 
  
 <summary>See more about Apple Developer Academy Projects and Learnings</summary>
